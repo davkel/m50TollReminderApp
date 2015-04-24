@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">M50 Toll Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_set_reminder">Set Reminder time</string>
+    <string name="title_activity_view_history">ViewHistoryActivity</string>
+
+</resources>
